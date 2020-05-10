@@ -1,0 +1,22 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: mail
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      component: mail
+  template:
+    metadata:
+      labels:
+        component: mail
+    spec:
+      containers:
+      - env:
+        - name: SPRING_EUREKA
+          value: http://eureka-cluster-ip-service:8761/eureka
+        image: asia.gcr.io/selforder-1553324212477/mailservice:1.0.4
+        name: mail
+        ports:
+        - containerPort: 80

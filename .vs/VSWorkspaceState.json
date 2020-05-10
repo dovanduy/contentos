@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AuthenticationService",
+    "\\AuthenticationService\\AuthenticationService",
+    "\\AuthenticationService\\AuthenticationService\\Application",
+    "\\AuthenticationService\\AuthenticationService\\Application\\Queries",
+    "\\ContentProccessService",
+    "\\ContentProccessService\\ContentProccessService",
+    "\\ContentProccessService\\ContentProccessService\\Application",
+    "\\ContentProccessService\\ContentProccessService\\Application\\Dtos",
+    "\\ContentProccessService\\ContentProccessService\\Application\\Queries",
+    "\\ContentProccessService\\ContentProccessService\\Controllers",
+    "\\ContentProccessService\\ContentProccessService\\Entities"
+  ],
+  "SelectedNode": "\\ContentProccessService\\ContentProccessService\\Entities",
+  "PreviewInSolutionExplorer": false
+}

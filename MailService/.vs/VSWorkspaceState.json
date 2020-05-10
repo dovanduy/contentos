@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MailService",
+    "\\MailService\\Application",
+    "\\MailService\\Application\\EmailSender"
+  ],
+  "SelectedNode": "\\MailService\\Application\\EmailSender\\EmailSender.cs",
+  "PreviewInSolutionExplorer": false
+}

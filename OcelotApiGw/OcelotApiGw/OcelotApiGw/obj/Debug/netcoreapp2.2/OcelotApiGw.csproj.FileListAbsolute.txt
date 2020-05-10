@@ -1,0 +1,17 @@
+D:\Capstone\Doan\Contento\OcelotApiGw\OcelotApiGw\OcelotApiGw\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Capstone\Doan\Contento\OcelotApiGw\OcelotApiGw\OcelotApiGw\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Capstone\Doan\Contento\OcelotApiGw\OcelotApiGw\OcelotApiGw\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Capstone\Doan\Contento\OcelotApiGw\OcelotApiGw\OcelotApiGw\obj\Debug\netcoreapp2.2\OcelotApiGw.AssemblyInfoInputs.cache
+D:\Capstone\Doan\Contento\OcelotApiGw\OcelotApiGw\OcelotApiGw\obj\Debug\netcoreapp2.2\OcelotApiGw.AssemblyInfo.cs
+D:\Capstone\Doan\Contento\OcelotApiGw\OcelotApiGw\OcelotApiGw\bin\Debug\netcoreapp2.2\OcelotApiGw.deps.json
+D:\Capstone\Doan\Contento\OcelotApiGw\OcelotApiGw\OcelotApiGw\bin\Debug\netcoreapp2.2\OcelotApiGw.runtimeconfig.json
+D:\Capstone\Doan\Contento\OcelotApiGw\OcelotApiGw\OcelotApiGw\bin\Debug\netcoreapp2.2\OcelotApiGw.runtimeconfig.dev.json
+D:\Capstone\Doan\Contento\OcelotApiGw\OcelotApiGw\OcelotApiGw\bin\Debug\netcoreapp2.2\OcelotApiGw.dll
+D:\Capstone\Doan\Contento\OcelotApiGw\OcelotApiGw\OcelotApiGw\obj\Debug\netcoreapp2.2\OcelotApiGw.csprojAssemblyReference.cache
+D:\Capstone\Doan\Contento\OcelotApiGw\OcelotApiGw\OcelotApiGw\obj\Debug\netcoreapp2.2\OcelotApiGw.RazorAssemblyInfo.cache
+D:\Capstone\Doan\Contento\OcelotApiGw\OcelotApiGw\OcelotApiGw\obj\Debug\netcoreapp2.2\OcelotApiGw.RazorAssemblyInfo.cs
+D:\Capstone\Doan\Contento\OcelotApiGw\OcelotApiGw\OcelotApiGw\obj\Debug\netcoreapp2.2\OcelotApiGw.RazorTargetAssemblyInfo.cache
+D:\Capstone\Doan\Contento\OcelotApiGw\OcelotApiGw\OcelotApiGw\bin\Debug\netcoreapp2.2\ocelot.json
+D:\Capstone\Doan\Contento\OcelotApiGw\OcelotApiGw\OcelotApiGw\bin\Debug\netcoreapp2.2\OcelotApiGw.pdb
+D:\Capstone\Doan\Contento\OcelotApiGw\OcelotApiGw\OcelotApiGw\obj\Debug\netcoreapp2.2\OcelotApiGw.dll
+D:\Capstone\Doan\Contento\OcelotApiGw\OcelotApiGw\OcelotApiGw\obj\Debug\netcoreapp2.2\OcelotApiGw.pdb

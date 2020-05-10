@@ -1,0 +1,16 @@
+D:\Capstone\Doan\Contento\CampaignService\CampaignService\bin\Release\netcoreapp2.2\appsettings.Development.json
+D:\Capstone\Doan\Contento\CampaignService\CampaignService\bin\Release\netcoreapp2.2\appsettings.json
+D:\Capstone\Doan\Contento\CampaignService\CampaignService\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+D:\Capstone\Doan\Contento\CampaignService\CampaignService\bin\Release\netcoreapp2.2\CampaignService.deps.json
+D:\Capstone\Doan\Contento\CampaignService\CampaignService\bin\Release\netcoreapp2.2\CampaignService.runtimeconfig.json
+D:\Capstone\Doan\Contento\CampaignService\CampaignService\bin\Release\netcoreapp2.2\CampaignService.runtimeconfig.dev.json
+D:\Capstone\Doan\Contento\CampaignService\CampaignService\bin\Release\netcoreapp2.2\CampaignService.dll
+D:\Capstone\Doan\Contento\CampaignService\CampaignService\bin\Release\netcoreapp2.2\CampaignService.pdb
+D:\Capstone\Doan\Contento\CampaignService\CampaignService\obj\Release\netcoreapp2.2\CampaignService.csprojAssemblyReference.cache
+D:\Capstone\Doan\Contento\CampaignService\CampaignService\obj\Release\netcoreapp2.2\CampaignService.RazorAssemblyInfo.cache
+D:\Capstone\Doan\Contento\CampaignService\CampaignService\obj\Release\netcoreapp2.2\CampaignService.RazorAssemblyInfo.cs
+D:\Capstone\Doan\Contento\CampaignService\CampaignService\obj\Release\netcoreapp2.2\CampaignService.AssemblyInfoInputs.cache
+D:\Capstone\Doan\Contento\CampaignService\CampaignService\obj\Release\netcoreapp2.2\CampaignService.AssemblyInfo.cs
+D:\Capstone\Doan\Contento\CampaignService\CampaignService\obj\Release\netcoreapp2.2\CampaignService.RazorTargetAssemblyInfo.cache
+D:\Capstone\Doan\Contento\CampaignService\CampaignService\obj\Release\netcoreapp2.2\CampaignService.dll
+D:\Capstone\Doan\Contento\CampaignService\CampaignService\obj\Release\netcoreapp2.2\CampaignService.pdb

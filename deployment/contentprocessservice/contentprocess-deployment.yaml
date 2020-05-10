@@ -1,0 +1,22 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: contentprocess
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      component: contentprocess
+  template:
+    metadata:
+      labels:
+        component: contentprocess
+    spec:
+      containers:
+      - env:
+        - name: SPRING_EUREKA
+          value: http://eureka-cluster-ip-service:8761/eureka
+        image: asia.gcr.io/selforder-1553324212477/contentproccessservice:1.2.5
+        name: contentprocess
+        ports:
+        - containerPort: 80

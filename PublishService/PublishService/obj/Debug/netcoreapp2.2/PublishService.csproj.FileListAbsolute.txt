@@ -1,0 +1,5 @@
+D:\Capstone\Doan\Contento\PublishService\PublishService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Capstone\Doan\Contento\PublishService\PublishService\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Capstone\Doan\Contento\PublishService\PublishService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Capstone\Doan\Contento\PublishService\PublishService\obj\Debug\netcoreapp2.2\PublishService.AssemblyInfoInputs.cache
+D:\Capstone\Doan\Contento\PublishService\PublishService\obj\Debug\netcoreapp2.2\PublishService.AssemblyInfo.cs

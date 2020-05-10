@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: batchjob-694cb75f85-67wxv
+spec:
+  type: ClusterIP
+  selector:
+    component: batchjob
+  ports:
+  - port: 80
+    targetPort: 80

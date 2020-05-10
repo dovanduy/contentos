@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: campaign-66888bd969-gxg5r
+spec:
+  type: ClusterIP
+  selector:
+    component: campaign
+  ports:
+  - port: 80
+    targetPort: 80

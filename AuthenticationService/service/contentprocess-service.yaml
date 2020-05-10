@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: contentprocess-68bbdd7b4d-l2d79
+spec:
+  type: ClusterIP
+  selector:
+    component: contentprocess
+  ports:
+  - port: 80
+    targetPort: 80

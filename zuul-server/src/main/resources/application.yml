@@ -1,0 +1,35 @@
+spring:
+  application:
+    name: zuul
+
+server:
+  port: 8760
+zuul:
+  sensitive-headers:
+  - Cookie,Set-Cookie
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: ${SPRING_EUREKA}
+
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          strategy: THREAD  
+          thread:
+            timeoutInMilliseconds: 30000
+
+
+ribbon:
+  ReadTimeout: 60000
+  connection-timeout: 3000
+  eureka:
+    enabled: true
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'

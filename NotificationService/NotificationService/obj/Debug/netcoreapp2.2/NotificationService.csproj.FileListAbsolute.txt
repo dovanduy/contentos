@@ -1,0 +1,13 @@
+D:\Capstone\Doan\Contento\NotificationService\NotificationService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Capstone\Doan\Contento\NotificationService\NotificationService\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Capstone\Doan\Contento\NotificationService\NotificationService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Capstone\Doan\Contento\NotificationService\NotificationService\obj\Debug\netcoreapp2.2\NotificationService.AssemblyInfoInputs.cache
+D:\Capstone\Doan\Contento\NotificationService\NotificationService\obj\Debug\netcoreapp2.2\NotificationService.AssemblyInfo.cs
+D:\Capstone\Doan\Contento\NotificationService\NotificationService\bin\Debug\netcoreapp2.2\NotificationService.deps.json
+D:\Capstone\Doan\Contento\NotificationService\NotificationService\bin\Debug\netcoreapp2.2\NotificationService.runtimeconfig.json
+D:\Capstone\Doan\Contento\NotificationService\NotificationService\bin\Debug\netcoreapp2.2\NotificationService.runtimeconfig.dev.json
+D:\Capstone\Doan\Contento\NotificationService\NotificationService\bin\Debug\netcoreapp2.2\NotificationService.dll
+D:\Capstone\Doan\Contento\NotificationService\NotificationService\obj\Debug\netcoreapp2.2\NotificationService.csprojAssemblyReference.cache
+D:\Capstone\Doan\Contento\NotificationService\NotificationService\obj\Debug\netcoreapp2.2\NotificationService.RazorAssemblyInfo.cache
+D:\Capstone\Doan\Contento\NotificationService\NotificationService\obj\Debug\netcoreapp2.2\NotificationService.RazorAssemblyInfo.cs
+D:\Capstone\Doan\Contento\NotificationService\NotificationService\obj\Debug\netcoreapp2.2\NotificationService.RazorTargetAssemblyInfo.cache

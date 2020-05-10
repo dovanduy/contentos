@@ -1,0 +1,16 @@
+D:\Capstone\Doan\Contento\ContentProccessService\ContentProccessService\bin\Release\netcoreapp2.2\appsettings.Development.json
+D:\Capstone\Doan\Contento\ContentProccessService\ContentProccessService\bin\Release\netcoreapp2.2\appsettings.json
+D:\Capstone\Doan\Contento\ContentProccessService\ContentProccessService\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+D:\Capstone\Doan\Contento\ContentProccessService\ContentProccessService\bin\Release\netcoreapp2.2\ContentProccessService.deps.json
+D:\Capstone\Doan\Contento\ContentProccessService\ContentProccessService\bin\Release\netcoreapp2.2\ContentProccessService.runtimeconfig.json
+D:\Capstone\Doan\Contento\ContentProccessService\ContentProccessService\bin\Release\netcoreapp2.2\ContentProccessService.runtimeconfig.dev.json
+D:\Capstone\Doan\Contento\ContentProccessService\ContentProccessService\bin\Release\netcoreapp2.2\ContentProccessService.dll
+D:\Capstone\Doan\Contento\ContentProccessService\ContentProccessService\bin\Release\netcoreapp2.2\ContentProccessService.pdb
+D:\Capstone\Doan\Contento\ContentProccessService\ContentProccessService\obj\Release\netcoreapp2.2\ContentProccessService.csprojAssemblyReference.cache
+D:\Capstone\Doan\Contento\ContentProccessService\ContentProccessService\obj\Release\netcoreapp2.2\ContentProccessService.RazorAssemblyInfo.cache
+D:\Capstone\Doan\Contento\ContentProccessService\ContentProccessService\obj\Release\netcoreapp2.2\ContentProccessService.RazorAssemblyInfo.cs
+D:\Capstone\Doan\Contento\ContentProccessService\ContentProccessService\obj\Release\netcoreapp2.2\ContentProccessService.AssemblyInfoInputs.cache
+D:\Capstone\Doan\Contento\ContentProccessService\ContentProccessService\obj\Release\netcoreapp2.2\ContentProccessService.AssemblyInfo.cs
+D:\Capstone\Doan\Contento\ContentProccessService\ContentProccessService\obj\Release\netcoreapp2.2\ContentProccessService.RazorTargetAssemblyInfo.cache
+D:\Capstone\Doan\Contento\ContentProccessService\ContentProccessService\obj\Release\netcoreapp2.2\ContentProccessService.dll
+D:\Capstone\Doan\Contento\ContentProccessService\ContentProccessService\obj\Release\netcoreapp2.2\ContentProccessService.pdb

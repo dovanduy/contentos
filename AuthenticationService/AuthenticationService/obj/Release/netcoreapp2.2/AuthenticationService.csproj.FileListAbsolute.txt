@@ -1,0 +1,16 @@
+D:\Capstone\Doan\Contento\AuthenticationService\AuthenticationService\bin\Release\netcoreapp2.2\appsettings.Development.json
+D:\Capstone\Doan\Contento\AuthenticationService\AuthenticationService\bin\Release\netcoreapp2.2\appsettings.json
+D:\Capstone\Doan\Contento\AuthenticationService\AuthenticationService\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+D:\Capstone\Doan\Contento\AuthenticationService\AuthenticationService\bin\Release\netcoreapp2.2\AuthenticationService.deps.json
+D:\Capstone\Doan\Contento\AuthenticationService\AuthenticationService\bin\Release\netcoreapp2.2\AuthenticationService.runtimeconfig.json
+D:\Capstone\Doan\Contento\AuthenticationService\AuthenticationService\bin\Release\netcoreapp2.2\AuthenticationService.runtimeconfig.dev.json
+D:\Capstone\Doan\Contento\AuthenticationService\AuthenticationService\bin\Release\netcoreapp2.2\AuthenticationService.dll
+D:\Capstone\Doan\Contento\AuthenticationService\AuthenticationService\bin\Release\netcoreapp2.2\AuthenticationService.pdb
+D:\Capstone\Doan\Contento\AuthenticationService\AuthenticationService\obj\Release\netcoreapp2.2\AuthenticationService.csprojAssemblyReference.cache
+D:\Capstone\Doan\Contento\AuthenticationService\AuthenticationService\obj\Release\netcoreapp2.2\AuthenticationService.RazorAssemblyInfo.cache
+D:\Capstone\Doan\Contento\AuthenticationService\AuthenticationService\obj\Release\netcoreapp2.2\AuthenticationService.RazorAssemblyInfo.cs
+D:\Capstone\Doan\Contento\AuthenticationService\AuthenticationService\obj\Release\netcoreapp2.2\AuthenticationService.AssemblyInfoInputs.cache
+D:\Capstone\Doan\Contento\AuthenticationService\AuthenticationService\obj\Release\netcoreapp2.2\AuthenticationService.AssemblyInfo.cs
+D:\Capstone\Doan\Contento\AuthenticationService\AuthenticationService\obj\Release\netcoreapp2.2\AuthenticationService.RazorTargetAssemblyInfo.cache
+D:\Capstone\Doan\Contento\AuthenticationService\AuthenticationService\obj\Release\netcoreapp2.2\AuthenticationService.dll
+D:\Capstone\Doan\Contento\AuthenticationService\AuthenticationService\obj\Release\netcoreapp2.2\AuthenticationService.pdb

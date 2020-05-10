@@ -1,0 +1,26 @@
+{
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/api/campaign/{everything}",
+      "DownstreamScheme": "http",
+      "UpstreamPathTemplate": "/campaign/{everything}",
+      "ServiceName": "CampaignService"
+    },
+    {
+      "DownstreamPathTemplate": "/api/task/{everything}",
+      "DownstreamScheme": "http",
+      "UpstreamPathTemplate": "/task/{everything}",
+      "ServiceName": "TaskService"
+    }
+  ],
+  "GlobalConfiguration": {
+    //"RequestIdKey": "OcRequestId",
+    //"AdministrationPath": "/administration",
+    "UseServiceDiscovery": true,
+    "ServiceDiscoveryProvider": {
+      "Type": "Eureka",
+      "Host": "eureka-cluster-ip-service",
+      "Port": "8761"
+    }
+  }
+}

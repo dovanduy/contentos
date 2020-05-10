@@ -1,0 +1,22 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: authentication
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      component: authentication
+  template:
+    metadata:
+      labels:
+        component: authentication
+    spec:
+      containers:
+      - env:
+        - name: SPRING_EUREKA
+          value: http://eureka-cluster-ip-service:8761/eureka
+        image: asia.gcr.io/selforder-1553324212477/authenticationservice:1.2.1
+        name: authentication
+        ports:
+        - containerPort: 80

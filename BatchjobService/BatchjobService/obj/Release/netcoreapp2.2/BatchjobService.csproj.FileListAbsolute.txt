@@ -1,0 +1,16 @@
+D:\Capstone\Doan\Contento\BatchjobService\BatchjobService\bin\Release\netcoreapp2.2\appsettings.Development.json
+D:\Capstone\Doan\Contento\BatchjobService\BatchjobService\bin\Release\netcoreapp2.2\appsettings.json
+D:\Capstone\Doan\Contento\BatchjobService\BatchjobService\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+D:\Capstone\Doan\Contento\BatchjobService\BatchjobService\bin\Release\netcoreapp2.2\BatchjobService.deps.json
+D:\Capstone\Doan\Contento\BatchjobService\BatchjobService\bin\Release\netcoreapp2.2\BatchjobService.runtimeconfig.json
+D:\Capstone\Doan\Contento\BatchjobService\BatchjobService\bin\Release\netcoreapp2.2\BatchjobService.runtimeconfig.dev.json
+D:\Capstone\Doan\Contento\BatchjobService\BatchjobService\bin\Release\netcoreapp2.2\BatchjobService.dll
+D:\Capstone\Doan\Contento\BatchjobService\BatchjobService\bin\Release\netcoreapp2.2\BatchjobService.pdb
+D:\Capstone\Doan\Contento\BatchjobService\BatchjobService\obj\Release\netcoreapp2.2\BatchjobService.csprojAssemblyReference.cache
+D:\Capstone\Doan\Contento\BatchjobService\BatchjobService\obj\Release\netcoreapp2.2\BatchjobService.RazorAssemblyInfo.cache
+D:\Capstone\Doan\Contento\BatchjobService\BatchjobService\obj\Release\netcoreapp2.2\BatchjobService.RazorAssemblyInfo.cs
+D:\Capstone\Doan\Contento\BatchjobService\BatchjobService\obj\Release\netcoreapp2.2\BatchjobService.AssemblyInfoInputs.cache
+D:\Capstone\Doan\Contento\BatchjobService\BatchjobService\obj\Release\netcoreapp2.2\BatchjobService.AssemblyInfo.cs
+D:\Capstone\Doan\Contento\BatchjobService\BatchjobService\obj\Release\netcoreapp2.2\BatchjobService.RazorTargetAssemblyInfo.cache
+D:\Capstone\Doan\Contento\BatchjobService\BatchjobService\obj\Release\netcoreapp2.2\BatchjobService.dll
+D:\Capstone\Doan\Contento\BatchjobService\BatchjobService\obj\Release\netcoreapp2.2\BatchjobService.pdb

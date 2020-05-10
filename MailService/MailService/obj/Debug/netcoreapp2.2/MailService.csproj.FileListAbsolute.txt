@@ -1,0 +1,16 @@
+D:\Capstone\Doan\Contento\MailService\MailService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Capstone\Doan\Contento\MailService\MailService\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Capstone\Doan\Contento\MailService\MailService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Capstone\Doan\Contento\MailService\MailService\obj\Debug\netcoreapp2.2\MailService.AssemblyInfoInputs.cache
+D:\Capstone\Doan\Contento\MailService\MailService\obj\Debug\netcoreapp2.2\MailService.AssemblyInfo.cs
+D:\Capstone\Doan\Contento\MailService\MailService\bin\Debug\netcoreapp2.2\MailService.deps.json
+D:\Capstone\Doan\Contento\MailService\MailService\bin\Debug\netcoreapp2.2\MailService.runtimeconfig.json
+D:\Capstone\Doan\Contento\MailService\MailService\bin\Debug\netcoreapp2.2\MailService.runtimeconfig.dev.json
+D:\Capstone\Doan\Contento\MailService\MailService\bin\Debug\netcoreapp2.2\MailService.dll
+D:\Capstone\Doan\Contento\MailService\MailService\obj\Debug\netcoreapp2.2\MailService.csprojAssemblyReference.cache
+D:\Capstone\Doan\Contento\MailService\MailService\obj\Debug\netcoreapp2.2\MailService.RazorAssemblyInfo.cache
+D:\Capstone\Doan\Contento\MailService\MailService\obj\Debug\netcoreapp2.2\MailService.RazorAssemblyInfo.cs
+D:\Capstone\Doan\Contento\MailService\MailService\obj\Debug\netcoreapp2.2\MailService.RazorTargetAssemblyInfo.cache
+D:\Capstone\Doan\Contento\MailService\MailService\bin\Debug\netcoreapp2.2\MailService.pdb
+D:\Capstone\Doan\Contento\MailService\MailService\obj\Debug\netcoreapp2.2\MailService.dll
+D:\Capstone\Doan\Contento\MailService\MailService\obj\Debug\netcoreapp2.2\MailService.pdb
